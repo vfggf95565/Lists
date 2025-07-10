@@ -3,7 +3,7 @@
 # MAJOR UPDATE:
 ## We are moving forward with a merge of this project and a complete rewrite. As more details are available we will update the repo.
 
-# The Block List Project
+# [The Block List Project](https://blocklistproject.github.io/Lists/)
 
 [![GitHub issues](https://img.shields.io/github/issues/blocklistproject/lists)](https://github.com/blocklistproject/Lists/issues)
 [![GitHub closed issues](https://badgen.net/github/closed-issues/blocklistproject/Lists?color=green)](https://github.com/blocklistproject/Lists/issues?q=is%3Aissue+is%3Aclosed)
